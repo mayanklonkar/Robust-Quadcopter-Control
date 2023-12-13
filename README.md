@@ -22,7 +22,7 @@ Implemented a PD controller to control the motion of the quadrotor in the Y-Z(2D
 
 <image src="https://github.com/mayanklonkar/Robust-Quadcopter-Control/assets/108993449/ae2fa5a5-62cf-4787-ac2b-77de08f4f526" width="600" height="400" />
 
-### 3D Control of Quadcopter
+## 3D Control of Quadcopter
 
 Implemented PD controller to follow 3-dimensional trajectory while minimising the error. 
 
@@ -30,6 +30,7 @@ Implemented PD controller to follow 3-dimensional trajectory while minimising th
 
 <image src="https://github.com/mayanklonkar/Robust-Quadcopter-Control/assets/108993449/d51f3969-b7d7-47cb-a5f9-0a65552bb018" width="600" height="400" />
 
+### Helix Trajectory
 <image src="https://github.com/mayanklonkar/Robust-Quadcopter-Control/assets/108993449/8a529d9a-fd8f-4ad3-aec7-2ff3cbc2fc18" width="600" height="400" />
 
 
