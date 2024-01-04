@@ -2,6 +2,9 @@
 ## Description
 Implementations of control algorithms on quadcopter.
 
+Materials referred -
+- Course on Robotics: Aerial Robotics (https://www.coursera.org/learn/robotics-flight?action=enroll&aid=true)
+
 ## 1D Control of Quadcopter
 Implemented PD controller for altitude control of quadcopter by tuning proportional gain (Kp) and Derivative gain (Kd) for 0 and 1 m.
 ### Hover control at 0 m
